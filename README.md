@@ -1,7 +1,7 @@
 # Kung Fu Panda Pong 
 Pong game written in Java for the Processing IDE (based on Kung-Fu Panda)
 
-![TitleScreen](https://github.com/Cabralcm/KungFuPandaPong/blob/master/Misc/title_screen.JPG)
+![GameScreen](https://github.com/Cabralcm/KungFuPandaPong/blob/master/Misc/game_screen.JPG)
 
 
 # Installation
@@ -11,5 +11,12 @@ Pong game written in Java for the Processing IDE (based on Kung-Fu Panda)
 
 2) Clone repository, double click on ```Kung_Fu_Panda_Pong.pde``` to open in Processing IDE.  Click on **Run** arrow to play! 
 
+# Instructions
 
-  
+First player to 
+
+***Player 1 (left character):***
+- Movement:``` W,A,S,D ```
+
+***Player 2 (right character):***
+- ```Up, Down, Left, Right Arrows```
