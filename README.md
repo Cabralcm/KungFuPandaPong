@@ -13,10 +13,16 @@ Pong game written in Java for the Processing IDE (based on Kung-Fu Panda)
 
 # Instructions
 
-First player to 
+First player to the ```match point``` wins! 
+
+## Main Menu
+![TitleScreen](https://github.com/Cabralcm/KungFuPandaPong/blob/master/Misc/title_screen.JPG)
 
 ***Player 1 (left character):***
-- Movement:``` W,A,S,D ```
+   - Movement: ``` W,A,S,D ```
 
 ***Player 2 (right character):***
-- ```Up, Down, Left, Right Arrows```
+   - Movement: ```Up, Down, Left, Right Arrows```
+
+***Pause Screen***
+   - Press ```Enter``` any time during gameplay to pause, reset score, or return to Main Menu.
