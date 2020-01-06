@@ -13,7 +13,7 @@ Pong game written in Java for the Processing IDE (based on Kung-Fu Panda)
 
 # Instructions
 
-First player to the ```match point``` wins! 
+First player to the ```Max Point``` wins! 
 
 ## Main Menu
 ![TitleScreen](https://github.com/Cabralcm/KungFuPandaPong/blob/master/Misc/title_screen.JPG)
